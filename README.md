@@ -1,2 +1,5 @@
-# Leetcode45
-Goal to finish 175 leetcode problems in 45 days
+# Design-1 
+Design-1
+Problem 1:(https://leetcode.com/problems/design-hashset/)
+Problem 2:
+Design MinStack (https://leetcode.com/problems/min-stack/)
